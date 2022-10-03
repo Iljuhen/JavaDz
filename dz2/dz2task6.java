@@ -17,7 +17,6 @@ public class dz2task6 {
         str1.append(equally);
         str1.append(num1 + num2);
         StringBuilder tmp = str1.replace(7, 8, "равно");
-        str1 = tmp;
         System.out.println(str1);
     }
 
