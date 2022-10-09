@@ -1,4 +1,4 @@
-package JavaDz.dz6;
+package DZ.dz6;
 
 import java.util.HashSet;
 import java.util.LinkedHashSet;
