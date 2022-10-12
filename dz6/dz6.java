@@ -99,7 +99,8 @@ public class dz6 {
             ts1.add(numb);
         }
         System.out.println("TreeSet ts1 с компаратором");
-        ts1.forEach(System.out::println);
+        String s = "  ";
+        ts1.forEach(n ->System.out.print(n + " ; "));
         System.out.println();
 
         // ===========Задача 6
